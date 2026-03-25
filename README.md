@@ -31,10 +31,6 @@ If you’re interested in collaborating or have any opportunities, feel free to 
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/nadine-knoop/)
 
----
-
-If you’re interested in collaborating or have any opportunities, feel free to reach out. I’d love to connect!
-
 
 <!--
 **NadineKn/NadineKn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

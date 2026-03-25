@@ -1,6 +1,6 @@
 # Hi there, I'm Nadine 👋
 
-I’m currently learning various aspects of **Data Science**, including **Machine Learning**, **Deep Learning**, and **Business Intelligence**. My goal is to apply my skills to real-world problems and contribute to innovative projects. 
+I’m currently learning various aspects of **Data Science**, including **Machine Learning**, **Deep Learning**, and **Business Intelligence**.
 
 Currently, I’m seeking an **internship** (LIA praktikplats) for the period **November 2026 - April 2027** where I can apply my knowledge and continue to grow as a data scientist.
 
